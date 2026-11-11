@@ -37,6 +37,14 @@
 
 ---
 
+
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/manvendrasingh19/manvendrasingh19/main/assets/profile-surprise.gif" width="160" alt="A little surprise animation" />
+
+</div>
+
 ## 👋 A little about me
 
 I'm **Manvendra Singh**, a Computer Science Engineering student interested in building practical software and exploring how intelligent, reliable applications are engineered.
