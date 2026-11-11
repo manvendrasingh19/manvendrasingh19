@@ -8,6 +8,10 @@
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/manvendrasingh19/manvendrasingh19/main/assets/manvendra-avatar.jpg" width="176" alt="Manvendra's custom developer and aviation-inspired avatar" />
+
+<br/>
+
 <a href="https://github.com/manvendrasingh19"><img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/manvendra-singh-132575317/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:ms6377238@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
