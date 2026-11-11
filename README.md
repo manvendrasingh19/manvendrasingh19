@@ -28,7 +28,7 @@ I enjoy working across the stack—from responsive interfaces and backend APIs t
 
 - 🔭 **Building:** Full-stack applications and AI-powered platforms
 - 🧠 **Exploring:** Applied machine learning, NLP, semantic search, and computer vision
-- 🤝 **Collaborating:** Team projects and the FusionIIIT software ecosystem
+- 🤝 **Collaborating:** Team-based engineering and open-source development
 - 📚 **Improving:** Data structures, algorithms, system design, and core CS foundations
 - 💬 **Topics:** Python, FastAPI, React, API design, and intelligent application workflows
 
@@ -52,11 +52,11 @@ I enjoy working across the stack—from responsive interfaces and backend APIs t
 
 ---
 
-## 🚀 Selected projects
+## 🚀 Selected project
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 <h3>🤖 <a href="https://github.com/manvendrasingh19/TechMatch-AI">TechMatch-AI</a></h3>
 
@@ -74,27 +74,6 @@ A full-stack career platform that analyses resumes, compares them with job descr
 <a href="https://github.com/manvendrasingh19/TechMatch-AI/pulls?q=is%3Apr+is%3Amerged">View merged pull requests →</a>
 
 </td>
-<td width="50%" valign="top">
-
-<h3>🛡️ <a href="https://github.com/manvendrasingh19/VisionGate">VisionGate</a></h3>
-
-**Smart student entry–exit management · Team project**
-
-A campus platform for digitising student movement records, vacation applications, approval workflows, and gate monitoring. I contributed as a **Developer** on the project team.
-
-- Digital entry and exit records
-- Student portal and movement history
-- Vacation request and approval workflows
-- Administration and security monitoring
-
-**Stack:** React · Vite · FastAPI · MongoDB · Google OAuth
-
-<a href="https://vision-gate-sbta.vercel.app/">Visit live demo →</a>
-
-</td>
-</tr>
-<tr>
-
 </tr>
 </table>
 
