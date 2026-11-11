@@ -18,6 +18,19 @@
 
 </div>
 
+
+## 🌌 HD Visuals — Happy Roaming
+
+<div align="center">
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/993370af-11f4-48e7-9e0d-e5b79c2e7890" width="520" alt="Happy Roaming — animated developer visual" />
+
+<br/>
+
+<sub>Exploring ideas, discovering new paths, and enjoying the journey of building.</sub>
+
+</div>
+
 ---
 
 ## 👋 A little about me
