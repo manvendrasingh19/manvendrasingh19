@@ -94,41 +94,7 @@ A campus platform for digitising student movement records, vacation applications
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
 
-<h3>🏛️ <a href="https://github.com/manvendrasingh19/Fusion-Integrated">Fusion-Integrated</a></h3>
-
-**Modular campus platform & software engineering**
-
-A modular campus platform built around centralized identity, role-based access control, independent modules, and server-driven navigation.
-
-- Explicit module boundaries and contracts
-- IAM integration and permission checks
-- Placement workflows and audit trail
-- Automated checks, tests, and maintainable code
-
-**Stack:** Python · Django · React · TypeScript · PostgreSQL · Redis · Celery
-
-<a href="https://github.com/manvendrasingh19/Fusion-Integrated/commits/main/">Explore repository history →</a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🌍 <a href="https://github.com/manvendrasingh19/wildfire-tracker">Wildfire Tracker</a></h3>
-
-**Interactive wildfire map**
-
-A React application that visualises wildfire information on an interactive Google Map using NASA's public API as a data source.
-
-- Map-based wildfire visualisation
-- NASA API integration
-- React application workflow
-
-**Stack:** React · JavaScript · Google Maps · NASA API
-
-<a href="https://github.com/manvendrasingh19/wildfire-tracker">Explore repository →</a>
-
-</td>
 </tr>
 </table>
 
