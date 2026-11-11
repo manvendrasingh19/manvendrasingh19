@@ -9,10 +9,6 @@
 <br/>
 
 <img src="https://raw.githubusercontent.com/manvendrasingh19/manvendrasingh19/main/assets/manvendra-avatar.jpg" width="150" alt="Manvendra's custom developer and aviation-inspired avatar" />
-<img src="https://raw.githubusercontent.com/manvendrasingh19/manvendrasingh19/main/assets/securitocat.png" width="170" alt="SecuriTocat — cybersecurity-themed Octocat" />
-
-<br/>
-<sub>My personal avatar × SecuriTocat — curious, security-minded, and always building.</sub>
 
 <br/>
 
@@ -27,27 +23,6 @@
 </div>
 
 
-## 🌌 HD Visuals — Happy Roaming
-
-<div align="center">
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/993370af-11f4-48e7-9e0d-e5b79c2e7890" width="520" alt="Happy Roaming — animated developer visual" />
-
-<br/>
-
-<sub>Exploring ideas, discovering new paths, and enjoying the journey of building.</sub>
-
-</div>
-
----
-
-
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/manvendrasingh19/manvendrasingh19/main/assets/profile-surprise.gif" width="160" alt="A little surprise animation" />
-
-</div>
 
 ## 👋 A little about me
 
